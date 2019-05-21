@@ -10,6 +10,10 @@ Gridonis is a new way to create full-stack progressive web apps. Front-end is st
 4. Run ``gridsome develop`` inside /gridsome folder
 5. localhost:8080/__explore to make querys to apollo server from gridsome
 
+### How to use
+- /adonis/app/data is where apollo graphql schema/resolvers are.
+- /gridsome/gridsome.server.js is where the apollo integration is.
+
 ### Gridsome plan
 The plan for Gridonis is to fully integrate gridsome with apollo. 
 
