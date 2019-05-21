@@ -3,7 +3,7 @@
 
 Gridonis is a new way to create full-stack progressive web apps. Front-end is staticly generated and can be deployed on a static host like [netlify](https://www.netlify.com/ "netlify") for free. Back-end uses the amazing [adonis framework](https://adonisjs.com/ "adonis framework") and can be deployed on a [vps](https://www.ssdnodes.com/manage/aff.php?aff=803 "vps").
 
-### ?? Get Up and Running in 5 Minutes 
+### Get Up and Running in 5 Minutes 
 1. Clone the repo
 2. Run ``npm install`` in  /gridsome and /adonis folder.
 3. Run ``adonis serve --dev`` inside /adonis folder
